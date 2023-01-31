@@ -1,0 +1,64 @@
+body{
+background-color: rgba(128, 128, 128, 0.175);
+}
+.container{
+    width: 30%;
+    text-align: center;
+    margin: 0 auto;
+    /* background-color: white; */
+}
+.hero{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px  rgba(0, 0, 0, 0.295);
+}
+fieldset{    
+   border: 0;
+}
+.heading h1{
+    margin: 50px 0 15px 0;
+    font-size: 3rem;
+}
+h1{
+    text-align: center;
+    color: #1878f2;
+    font-size: 45px;
+}
+form input{
+    width: 350px;
+    height: 45px;
+    margin: 10px 0;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.191);
+}
+form #btn1{
+    width: 350px;
+    height: 50px;
+    background-color: #1878f2;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    font-size: 20px;
+}
+form #btn2{
+    width: 200px;
+    height: 50px;
+    background-color:#43b829;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    font-size: 18px;
+}
+form h4{
+    margin: 5px;
+    color: #1878f2;
+}
+form span .text{
+    font-size: 10px;
+    color: black;
+}
+form .line{
+    font-size: 10px;
+    color: grey;
+}
